@@ -1,0 +1,39 @@
+h1{
+    color : green;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+
+th{
+    font-size: 20px;
+}
+
+tr{
+    font-size: 18px;
+}
+
+#tr1{
+    color: rgba(0, 255, 76, 0.685);
+}
+
+#tr2{
+    color: rgb(255, 0, 128);
+}
+
+#tr3{
+    color: rgb(0, 255, 76);
+}
+
+#tr4{
+    color: rgb(255, 136, 0);
+}
+
+#tr5{
+    color: rgb(255, 30, 0);
+}
+
+.trstyle{
+    color: rgb(255, 0, 128);
+    font-weight: bold;
+}
